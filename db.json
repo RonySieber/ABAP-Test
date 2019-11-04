@@ -1,5 +1,5 @@
-[
-  "MicRequests",
+{
+  "MicRequests":[
   {
     "DELIVERY": 80000264,
     "POSITION": 10,
@@ -34,5 +34,6 @@
     "GTIN": 9783836214230,
     "SERIAL": 201911032306017635,
     "STATUS": "New"
-  }
+}
 ]
+}
