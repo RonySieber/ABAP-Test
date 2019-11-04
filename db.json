@@ -1,39 +1,37 @@
-{
-  "MICREQUESTS":[
-  {
-    "DELIVERY": "80000264",
-    "POSITION": "10",
-    "GTIN": "9783836214230",
-    "SERIAL": "201911032306017630",
-    "STATUS": "New"
-  },
-  {
-    "DELIVERY": "80000264",
-    "POSITION": "10",
-    "GTIN": "9783836214230",
-    "SERIAL": "201911032306017631",
-    "STATUS": "New"
-  },
-  {
-    "DELIVERY": "80000264",
-    "POSITION": "10",
-    "GTIN": "9783836214230",
-    "SERIAL": "201911032306017632",
-    "STATUS": "New"
-  },
-  {
-    "DELIVERY": "80000264",
-    "POSITION": "10",
-    "GTIN": "9783836214230",
-    "SERIAL": "201911032306017633",
-    "STATUS": "New"
-  },
-  {
-    "DELIVERY": "80000264",
-    "POSITION": "10",
-    "GTIN": "9783836214230",
-    "SERIAL": "201911032306017634",
-    "STATUS": "New"
-  }
- ]
-}
+[ 
+   { 
+      "delivery":"80000264",
+      "position":10,
+      "gtin":"9783836214230",
+      "serial":" 201911032306017630",
+      "status":"New"
+   },
+   { 
+      "delivery":"80000264",
+      "position":10,
+      "gtin":"9783836214230",
+      "serial":" 201911032306017631",
+      "status":"New"
+   },
+   { 
+      "delivery":"80000264",
+      "position":10,
+      "gtin":"9783836214230",
+      "serial":" 201911032306017632",
+      "status":"New"
+   },
+   { 
+      "delivery":"80000264",
+      "position":10,
+      "gtin":"9783836214230",
+      "serial":" 201911032306017633",
+      "status":"New"
+   },
+   { 
+      "delivery":"80000264",
+      "position":10,
+      "gtin":"9783836214230",
+      "serial":" 201911032306017634",
+      "status":"New"
+   }
+]
